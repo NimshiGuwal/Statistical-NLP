@@ -1,4 +1,6 @@
 # Statistical-NLP
+
+MINI PROJECT REVIEW-1
 Hands-On NLP
 
 
@@ -21,3 +23,10 @@ LEXICONS (LEXICON.ipynb)
 1. Lexicon(Stopwords & CPU Wordlist)
 2. Simple Text Classifier
 3. Vectorizers and Cosine Similarity
+
+
+MINI PROJECT REVIEW-2
+1. EMBEDDING (EMBEDDING.ipynb)
+2. Chunking (Chunking.ipynb)
+3. NER (Regional Language.ipynb)
+4. Regional Language using INLTK (Regional Language.ipynb)
